@@ -22,7 +22,7 @@ Ruta para el Install .cfg
 
 
 ## Screenshots
-Eliminar el nombre "vsCodeZ" y dejar "CFG" Solamente.
+Eliminar el nombre "vsCodez" y dejar "CFG" Solamente.
 Pegalo Igual que la Imagen. 
 ![App Screenshot](https://i.pinimg.com/736x/d3/38/09/d338094c0e838529b9a06a5ef1b307c7.jpg)
 

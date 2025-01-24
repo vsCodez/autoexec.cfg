@@ -12,7 +12,7 @@
 
 
 
-## Environment Variables
+## Install
 
 Ruta para el Install .cfg
 

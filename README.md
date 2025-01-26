@@ -1,7 +1,7 @@
 
 # · Install autoexec.cfg 
 
-¡Hola y bienvenido(a) al repositorio de autoexec.cfg! Este proyecto está dedicado a optimizar y personalizar Counter Strike 2 .
+¡Hola y bienvenido(a) al repositorio de mi autoexec.cfg/Este proyecto está dedicado a personalizar Counter Strike 2 .
 
 
 
